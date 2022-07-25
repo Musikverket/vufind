@@ -21,8 +21,8 @@ node_modules
 public/swagger-ui
 
 local/cache
-local/harvest/**
-local/import/translation_maps
+local/harvest/calm/*
+local/harvest/digilellky/*
 local/chown_dirs.sh
 
 composer.json
